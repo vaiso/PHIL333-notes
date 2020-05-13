@@ -14,4 +14,95 @@
 
 ---
 
+An **argument** is a set of claims - some premises followed by a conclusion.
 
+* When an argument is written out narratively, it can be hard to spot the premises and conclusions. We can use premise and conclusion indicators to help find them:
+	* Premise indicators: for, since, because, given that, etc.
+		* E.g. "*Because* active euthanasia involves killing a person, it is always wrong."
+		* E.g. "You should not deceive others, *for* it is disrespectful."
+	* Conclusion indicators: therefore, hence, thus, so, consequently, etc.
+		* E.g. "Active euthanasia involves killing another person, *therefore* it is wrong"
+		* E.g. "Abortion is murder, *thus* it is wrong."
+* It can be helpful to rewrite arguments in **standard form** - A numbered list of claims, with the premises followed by the conclusion.
+```
+For example:
+
+1. It is morally permissible for women to make decisions when governing their own bodies.
+2. Abortion is a decision governing a woman's body.
+-------
+3. Therefore, abortion is morally permissible.
+```
+
+#### Evaluating Arguments
+
+* Good arguments consist of true premises and the conlusion should logically follow from the premises.
+* In the case of deductive arguments, this means that the argument is sound.
+* In the case of inductive arguments, this means that the argument is strong.
+
+#### Deductive Arguments
+
+* A **deductive** argument is one where the truth of the premises should logically guarantee the truth of the conclusion.
+* A **valid** deductive argument is one in which the truth of the conclusion necessarily follows from the truth of the premises. Note that this does NOT mean that the premises themselves have to be true, just that IF they are true, the conclusion must follow.
+* A **sound** argument is a valid argument with true premises. By definition, sound arguments must have true conclusions.
+
+#### Inductive Arguments
+
+* In an inductive argument, the premises being true only imply (but do not guarantee) the conclusion.
+* e.g. "Because the sun has risen every day till now, it will rise tomorrow." There is some infinitesmal possiblity that this is incorrect, but we can inductively conclude that it is likely true.
+* When evaluating inductive arguments, we don't use the terms validity and soundness. Instead we use the terms **strong** and **weak**.
+* The more the premises support the conclusion, the stronger the argument.
+
+#### Moral Arguments
+
+* A **moral argument** is an argument in support of a **substantive moral claim**.
+* A substantive moral claim is a claim about the moral status of acts, people, policies, etc.
+
+#### Philosophical Methodology: Counter-examples and Thought Experiments
+
+* **Counter-examples** and **thought experiments** are tools used to evaluate moral arguments.
+* A counter-example is an example of a situation that counters a claim. This does not mean that it needs to invalidate the argument, only that it convinces the reader/opponent that a claim does not make sense.
+* A thought experiment is an imaginary situation used to counter a claim (often by generating counter-examples within the framework of the thought experiment).
+* Counter-examples often refute moral claims by appealing to our common sense moral beliefs.
+* **reflective equilibrium** is the endpoint of a process of moral deliberation in which we create moral claims and evaluate them against our common sense moral beliefs.
+
+#### Common Logical Fallacies
+
+##### Circularity (begging the question)
+
+* A circular argument is one in which the premises themselves rely on the conclusion being true to be a sound argument.
+* E.g.:
+```
+1. The bible is the inerrant word of God.
+2. The bible says that God exists.
+------
+3. Therefore God exists.
+```
+
+##### False Dilemma
+
+* A false dilemma is an argument made by presenting fewer options than are actually available.
+* E.g. When defending the Canadian healthcare model, one might say that it's better than the US model so we don't want that model, but there are more options than just the two presented.
+
+##### Equivocation
+
+e.g.:
+```
+1. Laws imply law-makers
+2. There are laws of nature
+------
+3. Therefore there must be a supernatural law-maker.
+```
+
+* Equivocation replies on the ambiguity of language (in the above example, the double-meaning of the word "law") to present an argument.
+
+##### Appeal to Emotion
+
+* An appeal to emotion is when one uses deliberately emotional or inflammatory language to trigger an emotional rather than logical response in the reader.
+
+##### Strawman
+
+* A strawman fallacy is arguing against a false or inaccurate understanding of an opponent's argument.
+
+##### Ad Hominem
+
+* Attempting to refute an argument by attacking the character of the persion making the argument.
